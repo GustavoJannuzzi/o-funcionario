@@ -125,17 +125,3 @@ Sofia notou: "mais presente."
 Não resolvi. Mas voltei parcialmente. Não à inocência anterior. A presença consciente diferente.
 
 ---
-
-**FIM DA PARTE III**
-
-Ivan Morales, 37 anos, assessor jurídico, cúmplice consciente e resistente.
-
-Fragmentado há três meses. Integrando dolorosamente agora.
-
-Não sabendo onde vai dar.
-
-Apenas sabendo: hoje, continuo.
-
-E amanhã, veremos.
-
----
