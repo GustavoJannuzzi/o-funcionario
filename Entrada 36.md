@@ -1,71 +1,103 @@
 # ENTRADA 36
 
-**Quarta-feira, 12 de junho**
+**Quarta-feira, 12 de junho — 7h18**
 
 ---
 
-Decidi.
+Acordei cedo hoje. 6h02. Antes do alarme.
 
-Não dramaticamente. Não com resolução grandiloquente. Apenas: acordei hoje cedo, antes do alarme, e havia algo diferente na qualidade do silêncio.
+Não foi insônia ansiosa. Foi despertar com mente já processando, já sabendo o que precisava fazer.
 
-Escrevi no caderno de rascunho — não aqui, em caderno físico que comprei especificamente para isso e que ninguém além de mim verá. Escrevi regras.
+Fui até a cozinha. Café. Peguei caderno de rascunho — não este diário, um caderno físico separado que comprei ontem especificamente para isso. Sentei à mesa.
 
-Não "princípios". Não "valores orientadores". Regras. Concretas. Operacionais. Verificáveis.
-
----
-
-**REGRAS A PARTIR DE HOJE:**
-
-**1. Nenhum eufemismo sem consciência clara do que estou obscurecendo.**
-
-Cada vez que escrever "facilitação de acesso" vou saber conscientemente que significa "manipulação de vulnerabilidade". Cada vez que escrever "inclusão econômica" vou saber que significa "endividamento precoce". Não posso eliminar o eufemismo — é o formato exigido. Mas posso recusar anestesiar minha própria mente com ele.
-
-Diferença pequena. Mas real.
-
-**2. Linguagem mais clara quando possível, mesmo que marginalmente.**
-
-Não denúncia em documentos oficiais — isso seria descoberto, inútil, potencialmente prejudicial. Mas onde houver espaço de escolha entre versão mais obscura e versão levemente mais compreensível, escolho a segunda. Consistentemente. Mesmo quando diferença seja de 3%.
-
-**3. Inserir proteções quando viável.**
-
-Como fiz com cláusula sobre idosos. Como tenho feito irregularmente. Torno isso sistemático: em cada documento que passa pela minha mesa, procuro ativamente onde posso adicionar fricção protetiva sem que seja removida ou que me exponha.
-
-**4. Atrasar implementações predatórias.**
-
-Legítima e tecnicamente. "Preocupações jurídicas que precisam de análise adicional." "Questões de conformidade regulatória." "Precedentes que devem ser revisados." Não cancela, não impede. Retarda. Semanas, às vezes meses. Em projetos que afetarão pessoas reais, semanas podem importar.
-
-**5. Documentar tudo.**
-
-Este diário. Mas também: arquivo pessoal criptografado de decisões, projetos, versões de documentos antes e depois de revisões. Não sei para quê ainda. Talvez nunca seja útil. Mas se algum dia houver utilidade — se estrutura mudar, se momento chegar — o registro existe.
-
-**6. Nunca entusiasmo performático.**
-
-Posso ser profissional. Posso ser competente. Posso ser respeitoso. Não posso mais simular crença em projetos que reconheço como predatórios. Expressão neutra, não negativa — mas genuína. Não celebrar o que não celebro.
+E escrevi regras.
 
 ---
 
-São seis regras.
+Não "princípios orientadores." Não "valores a serem considerados." Regras. Específicas. Operacionais. Verificáveis.
 
-Todas insuficientes individualmente. Todas insuficientes coletivamente.
+Porque percebi: a questão não é ter grandes valores abstratos. A questão é ter protocolo concreto para quando estou sentado à minha mesa redigindo documento que sei ser predatório. O que faço, especificamente, naquele momento?
 
-Sistema continua. PEG acontece. Estrutura persiste.
+Sem protocolo, volto ao automático. Com protocolo, tenho escolha.
 
-Mas eu, dentro dessa estrutura, opero diferente. Levemente. Mas diferente.
-
-E talvez — é o que Helena sugeriu, é o que Marina demonstra — resistência pequena e sustentada seja diferente de resistência heroica e momentânea.
-
-Não pela mudança que produz no sistema.
-
-Pela mudança que ou não produz em mim.
+Então escrevi protocolo.
 
 ---
 
-Guardei o caderno. Fui ao trabalho.
+**REGRAS OPERACIONAIS A PARTIR DE HOJE:**
 
-Reunião às 10h sobre cronograma final do PEG. Sentei. Ouvi. Contribuí tecnicamente. Não sorri quando Varela descreveu "impacto positivo esperado na inclusão de jovens adultos".
+**Regra 1: Consciência obrigatória de eufemismos.**
 
-Expressão neutra.
+Cada vez que escrever "facilitação de acesso a crédito", vou pausar mentalmente e completar a frase: "...através de exploração de vulnerabilidade cognitiva."
 
-Primeira regra praticada.
+Cada vez que escrever "inclusão econômica", vou saber conscientemente que significa "endividamento precoce de população-alvo."
 
-Pequeno. Mas foi.
+Cada vez que escrever "estímulo ao consumo", vou reconhecer internamente: "anestesia de participação política."
+
+Não posso eliminar os eufemismos — é o formato exigido para documentos oficiais. Mas posso recusar anestesiar minha própria mente. Posso manter as duas linguagens ativas simultaneamente: a que escrevo e a que sei.
+
+**Regra 2: Linguagem mais clara quando houver margem.**
+
+Onde houver escolha — mesmo marginal — entre versão mais obscura e versão ligeiramente mais compreensível, escolho a segunda. Sempre.
+
+Não denúncia em texto oficial. Não sabotagem óbvia. Apenas: onde houver duas formas igualmente aceitáveis de dizer algo e uma for 3% mais clara que a outra, escolho a mais clara.
+
+3% não parece muito. Mas é 3% que não existiria sem escolha deliberada.
+
+**Regra 3: Busca ativa por pontos de proteção.**
+
+Em cada documento que passar pela minha mesa, vou procurar ativamente — não passivamente — onde posso inserir cláusula protetiva, ambiguidade estratégica, requisito adicional que crie fricção sem ser removido.
+
+Como fiz com verificação de capacidade cognitiva para idosos. Como Marina faz há anos.
+
+Não vou acertar sempre. Muitas serão removidas em revisão. Mas algumas permanecerão. E algumas podem importar.
+
+**Regra 4: Atrasos técnicos legítimos.**
+
+Quando projeto for particularmente predatório, vou usar expertise jurídica para identificar "preocupações técnicas" que requeiram análise adicional. Não obstrução — apenas diligência profissional elevada.
+
+Pode atrasar implementação em semanas ou meses. Não impede. Retarda. Em alguns casos, retardo pode salvar pessoas de serem capturadas antes que tenham chance de desenvolver defesas próprias.
+
+**Regra 5: Documentação sistemática.**
+
+Este diário continua. Mas além dele: arquivo digital criptografado de versões de documentos, decisões tomadas em reuniões, mudanças entre rascunho e versão final.
+
+Não sei para quê ainda. Talvez nunca seja útil. Mas se algum dia contexto mudar — se estrutura cair, se denúncia se tornar possível e eficaz — registro existe.
+
+**Regra 6: Fim da performance de entusiasmo.**
+
+Posso ser profissional. Posso ser competente. Posso ser respeitoso. Não posso mais fingir crença genuína em projetos que reconheço como predatórios.
+
+Não oposição vocal. Não confronto dramático. Apenas: expressão neutra onde antes havia sorriso aprovador. Ausência de celebração onde antes havia participação entusiástica.
+
+Pequena diferença. Mas verdadeira.
+
+---
+
+**7h18**
+
+Reli as seis regras.
+
+Nenhuma destrói o sistema. Nenhuma me torna herói. Nenhuma absolve minha cumplicidade.
+
+Mas são concretas. São praticáveis. São verificáveis.
+
+E são diferentes de continuar no automático, fingindo que não sei o que sei.
+
+É pouco.
+
+Mas é real.
+
+E talvez — como Helena disse — resistência pequena e sustentada seja diferente de gesto grande e momentâneo. Não pela mudança que produz no sistema imediatamente. Pelo que preserva em mim ao longo do tempo.
+
+Não sei ainda.
+
+Mas tenho protocolo para começar a descobrir.
+
+---
+
+Trabalho em uma hora. Reunião às 10h sobre cronograma de implementação do PEG.
+
+Será primeira vez praticando as regras conscientemente, deliberadamente, de forma verificável.
+
+Vamos ver como vai.
